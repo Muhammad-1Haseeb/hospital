@@ -1,0 +1,17 @@
+{
+  "name": "CarePulse Healthcare Management",
+  "short_name": "CarePulse",
+  "description": "Enterprise-grade Health Management System for seamless patient onboarding and administrative oversight.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#1A1D21",
+  "theme_color": "#24AE7C",
+  "icons": [
+    {
+      "src": "/assets/icons/logo-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
